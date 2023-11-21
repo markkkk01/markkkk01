@@ -576,6 +576,6 @@ def fcrack(uid,pwx,tl):
 		loop+=1
 	except:
 		pass
-		
-		
-main()		
+
+
+fia()
