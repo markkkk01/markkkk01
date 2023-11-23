@@ -178,8 +178,8 @@ $$ |__$$ |$$ |_____ $$ |$$$$ |  $$ $$/
 $$    $$/ $$       |$$ | $$$ |   $$$/    
 $$$$$$$/  $$$$$$$$/ $$/   $$/     $/                                                                                                                             
 \033[1;32m--------------------------------------------------
-\033[1;97m    ✎ σwnєr:  DENV WU
-\033[1;97m    ✎ fαcєвσσk:  https://facebook.com/dnvunreachableee
+\033[1;97m    ✎ σwnєr:  MARK V
+\033[1;97m    ✎ fαcєвσσk:  
 \033[1;97m    ✎ vєrsíσn:  [ 1.2 ]
 \033[1;97m    ✎ tчpє: TRIAL
 \033[1;32m--------------------------------------------------""")
@@ -203,7 +203,7 @@ def fia():
 			if xd in ['1','01']:
 				os.system('clear')
 				print(logo)
-				print('Example : /sdcard/denv.txt')
+				print('Example : /sdcard/markv.txt')
 				linex()
 				file = input(' Put file path\033[1;37m: ')
 				try:
